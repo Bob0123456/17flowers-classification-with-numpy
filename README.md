@@ -1,5 +1,5 @@
 # 17flowers Classification with NumPy
-SUTD Deep Learning with PyTorch
+SUTD Deep Learning with NumPy
 ## Getting Started
 
 ```
